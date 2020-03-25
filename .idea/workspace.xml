@@ -6,6 +6,7 @@
       <change afterPath="$PROJECT_DIR$/../src/go.megvii-inc.com/securitycore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../剑指offer/src/FindOnbiarray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/BianTaiTaijie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CycleLinkEntry.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DeleteLinkNodeOnO1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DeleteSortedLinkDuplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DuplicateInArray.java" afterDir="false" />
@@ -13,1212 +14,33 @@
       <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/FindKInSumK.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/FindOnBiArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IsnumberSring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HasSubTree.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Jiqiren.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JuZhengLuJing.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JuzhengFugai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelPrintTree.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSortedLink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MirrorTree.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Power.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Pring1toN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintTreeOnLevel.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/RepaceSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TailKnodeOnLinklist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tiaozhengjioushu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackPushPopOrder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/TreeNextNode.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/TwoStackAsQuere.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/XuanZhuanShuZu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZPrintTreeOnLevel.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Zhengzebiaodashi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isSymmetricalTree.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/jianshengzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reConstructBinaryFromLevAndIn.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/reConstructBinaryTree.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/reversalPrintLinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.dockerignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitlab-ci.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitlab/merge_request_templates/default.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dockerfile.dep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dockerfile.dev" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dockerfile.release" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Makefile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../auth/cmd/gateway/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../auth/proto/auth.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../auth/service/authsrv.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../auth/service/limit.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../auth/service/limit_auth.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../auth/testdata/signed_msg.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../auth/verifier/ca.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../auth/verifier/message.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../auth/verifier/message_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../authorizer/cmd/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../authorizer/convert.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../authorizer/service/service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../authorizer/signer/signer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/bdclient/benchmark/benchmark.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/bdclient/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/bdclient/demo/demo.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/bdclient/facecluster.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/bdclient/huixun.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/bdclient/metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/bdclient/neo4j/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/bdclient/pq.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/bdclient/superprofile/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/bdclient/video.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/bigdata.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/cmd/scheduler/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/cmd/server/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/cmd/superprofile/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/cmd/syncfs/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/cmd/synckafka/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/cmd/tools/scan/scan_info.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/cmd/tools/syncphoto/sync_photo_kafka.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/cmd/tools/upload/upload_img_to_fs.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/common/common.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/common/errormsg.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/common/expired_map.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/common/kafka.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/common/parsesql.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/common/passenger.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/conf/gpload/template.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/conf/meta/huixun_tableinfo.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/conf/meta/init_huixun_values.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/conf/meta/init_values.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/conf/meta/tableinfo.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/huixun/relation/cmd/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/huixun/relation/intimacy/intimacy.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/huixun/relation/tongxing/tongxing.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/proto/code.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/proto/kafkamessage.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/proto/message.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/proto/service.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/proto/superprofile.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/proto/syncface.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/scheduler/jobs.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/scheduler/ping.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/scheduler/syncpending.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/scheduler/syncpgloadtogp.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/scheduler/syncpgtogp.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/scripts/execGpload.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/scripts/gengplyaml.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/scripts/get_gids.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/scripts/meta/connection_manager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/scripts/meta/create_database.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/scripts/meta/db_connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/scripts/meta/exec_sql_file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/scripts/meta/insert_table_info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/kafka.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/meta/gentplyaml.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/meta/meta.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/meta/sqls.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/pq.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/pq/dao/dao.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/pq/db/db.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/pq/logger.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/pq/model.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/pq/transaction.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/stats.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/stats_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/utils/error.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/utils/sqls.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/utils/sqltools.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/utils/sqltools_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/utils/typeconv.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/service/video.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/api/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/api/apis.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/api/common.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/api/graph_search_handler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/api/group_ablum_change_handler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/api/group_album_handler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/api/group_photo_handler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/api/group_profile_handler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/api/group_recalc_handler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/api/handlers.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/api/load_profile_handler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/api/metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/api/parameter.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/api/profilechange_handler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/api/service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/common/common.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/graph/graph.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/memory/memory.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/profileindex/profileindex.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/redis/redis.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/sqls/sqls.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/structure/structure.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/util/checkSatisfied.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/util/groupcalc.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/util/groupcalc_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/util/inverthelper.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/util/loghelper.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/util/mokedata.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/util/profilehelper.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/util/sqlstmt.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/superprofile/util/timeconv.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/syncfs/fill_kafka.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/syncfs/fs_sync.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/syncfs/metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/syncfs/sync_compare.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/syncfs/syncface_server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/synckafka/callbacks/example.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/synckafka/callbacks/huixun.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/synckafka/io/superprofile/superprofile.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/synckafka/kafka_sync.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/synckafka/metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/synckafka/task/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/synckafka/task/interface.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/synckafka/task/simpletask.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/synckafka/task/simpletask2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/synckafka/util/logrusfmt/formatter.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../camera-tools/exif/raw_proto/box.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../camera-tools/exif/raw_proto/direction.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../camera-tools/exif/raw_proto/face_attribute.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../camera-tools/exif/raw_proto/face_feature.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../camera-tools/exif/raw_proto/face_file.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../camera-tools/exif/raw_proto/face_reply.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../camera-tools/exif/raw_proto/human_attribute.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../camera-tools/exif/raw_proto/image.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../camera-tools/exif/raw_proto/item.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../camera-tools/exif/raw_proto/mask.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../camera-tools/exif/raw_proto/plate_attribute.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../camera-tools/exif/raw_proto/trace_point.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../camera-tools/exif/raw_proto/vehicle_attribute.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ci/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ci/coverage.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ci/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/cmd/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/config/clustor-config-example.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/config/clustor_config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/data/cluster_set.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/data/data.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/direct/clustor.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/filetrans/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/filetrans/connect.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/filetrans/server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/libclustor/libclustor.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/libclustor/libclustor.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/libclustor/libclustor.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/proto/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/proto/data.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/proto/master.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/proto/worker.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/service-master/fetch.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/service-master/service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/service-master/service_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/service-master/task.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/service-master/task_ctrl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/service-master/task_data.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/service-master/task_state.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/service-master/task_worker.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/service-worker/runner.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/service-worker/service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/service-worker/service_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/service-worker/task.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/service-worker/task_state.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/testdata/jeffdean.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/util/etcd.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/util/util.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clustering/util/util_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/crop.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/crop_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/decode.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/decode_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/direction.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/direction_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/encode.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/image.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/image_bgr.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/image_gray.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/image_raw.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/image_yv12.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/jpeg_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/opencv.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/opencv.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/opencv.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/opencv_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/point.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/rect.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/rotate_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/ssn.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/testdata/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/testdata/bad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/image/testdata/large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/jpeg/compress.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/jpeg/decompress.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/jpeg/io.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/jpeg/jpeg.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/jpeg/jpeg_darwin.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/jpeg/panic.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/jpeg/panic_c.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/jpeg/trans.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/mp4/mp4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/mpegts/mpegts.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/video/ffmpeg.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/video/ffmpeg_avio.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/video/ffmpeg_codec.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/video/ffmpeg_format.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/video/ffmpeg_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/video/hwdecode.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/video/types.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/video/types_feature.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codec/video/ws.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/cmd/collision-gpu-server/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/cmd/test/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/cmd/tracing_generator/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/controller_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/database/database.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/database/database_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/database/model.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/device/device.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/device/megcollision_wrapper.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/executor/cache.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/executor/cache_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/executor/events.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/executor/executor.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/executor/executor_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/executor/feature_handle.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/executor/feature_handle_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/executor/feature_info.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/executor/result.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/executor/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/scheduler/scheduler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/scheduler/scheduler_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision-gpu/service/server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/cmd/collision-server/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/proto/collision_service.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/JobFsm.dot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/TaskFsm.dot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/background.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/background_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/collision.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/crud.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/crud_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/doc.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/execute.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/execute_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/normalize.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/normalize_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/scheduler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/scheduler_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collision/service/utils_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/camera_register/register.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/campaign/campaign.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/campaign/etcd_campaign.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/checkdep/checkdep.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/cluster_settings/settings.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/cluster_settings/settings_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/cmd/check-dep/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/config/conf.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/config/conf_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/constant/const.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/db/conn.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/db/conn_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/.yarnrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/faced.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/ha.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/lint.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/object-store.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/css/clustor.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/css/collision.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/css/main.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/css/services.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/css/status.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/clustor.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/collision.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/dump.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/faced.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/feature-store-agent-overview.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/feature-store-agent.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/feature-store-index-worker.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/feature-store-proxy.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/feature-store.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/grouper-master.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/grouper-worker.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/ha.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/habar.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/log.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/main.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/media-proxy.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/offline.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/pubsub.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/registry.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/router.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/seaweed-nodes.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/seaweed.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/service-base.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/services.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/statusbar.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/storage-manager.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/utilbar.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/src/js/videod.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/videod.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/webpack.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/debug-dashboard/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/encrypt/aes.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/encrypt/encrypt.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/encrypt/encrypt_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/error.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/errors/code.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/errors/code_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/etcd-util/util.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/etcd/etcd.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/kingpin-parser/parser.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/logformat.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/logformat_bench_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/logger/filelog/logger.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/logger/hook.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/logger/hook_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/logger/logstash.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/maintenance/maintenance.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/maintenance/maintenance_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/model/info.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/model/info_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/module/check.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/naming/namectl/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/naming/namewrapper/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/naming/naming.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/naming/naming_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/naming/resolver/etcd_resolver.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/naming/resolver/etcd_resolver_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/proto/common.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/quality/quality.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/quality/quality_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/rediscache/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/serving/addr.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/serving/common_server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/serving/options.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/serving/query.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/serving/serving.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/serving/serving_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/serving/types.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/settings/face_group.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/settings/face_group_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/settings/feature_version.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/settings/feature_version_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/testutil/jamming.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/testutil/protobuf.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/testutil/tempfile.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/timezone/parse.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/timezone/parse_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/atomic_file.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/cgo_func.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/cgo_func_darwin.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/cgo_func_windows.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/direction.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/direction_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/file_md5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/file_md5_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/global_gc_runner.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/int8_quantizer/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/int8_quantizer/helper.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/int8_quantizer/int8_quantizer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/int8_quantizer/int8_quantizer_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/large_slice/large_slice.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/large_slice/large_slice_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/mask/field_mask_util.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/mask/field_mask_util_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/score_dist_calculator/score_dist_calculator.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/score_dist_calculator/score_dist_calculator_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/testData/feat.trt.dewberry.quantize.20190222.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/testData/static.xlarge.171226.x1000.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/testData/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/utils/tracer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/version/version.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/x/capture/proto/message.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/x/grpcdialer/conn.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/x/metahelper/group_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/x/metahelper/photo_album.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/x/metahelper/video.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/x/versionhelper/version.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/x/versionhelper/version_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/.postcssrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/build.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/build/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/build/check-versions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/build/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/build/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/build/vue-loader.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/build/webpack.base.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/build/webpack.dev.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/build/webpack.prod.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/config/dev.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/config/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/config/prod.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/lint.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/ajax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/assets/bgimg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/assets/expansion.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/assets/movie.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/assets/shrinkage.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/ActionV5.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Collision.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/AddFaceGroupRange.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/AddFeature.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/AddMonitor.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/AddPVMonitor.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/AddPhotoAlbumRange.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/AddQueryRange.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/AddRange.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/AddTarget.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/AddTestRange.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/ChooseImageCard.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/Face.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/ImageCard.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/ImageWithRect.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/ListTable.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/ParamList.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/PkList.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/RecognitionArea.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Components/SelectData.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/FaceGroupV5.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/FaceV5.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/FreqAnalysis.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Home.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Job.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Login.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Message.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/OfflineVideo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/OperationLogs.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Param.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PedestrianGroupV5.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PedestrianV5.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Photo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PhotoAlbum.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Player/Player.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Player/player.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Player/structure.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PopTip/Poperrors.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PopTip/Popfaceanalyzer.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PopTip/Popfacegroup.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PopTip/Popfacegroupv5.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PopTip/Popflaganalyzer.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PopTip/Popimage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PopTip/Poplocator.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PopTip/Poppedanalyzer.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PopTip/Popphotoalbum.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PopTip/Popphotoobject.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PopTip/Popphotostream.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PopTip/Popvehanalyzer.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PopTip/Popvideo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/PopTip/Popvideov5.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Query.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Scan.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/ScanV5.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Stats.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/StatsV5.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Subscription.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Topic.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/User.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/VehicleGroupV5.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/VehicleV5.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/Video.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/components/VideoV5.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/store/actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/store/getters.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/store/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/store/mutations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/store/rulesData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/store/types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/src/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/static/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/static/webplayer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/static/webplayer.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/try-cache.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-ui/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dependency/kafka/0.11.0.0/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dependency/kafka/2.0.0/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dependency/kafka/build-0.11.0.0.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dependency/kafka/build-2.0.0.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dependency/kafka/health_check_wrapper.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dependency/kafka/kafka-expander/broker.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dependency/kafka/kafka-expander/kafka-broker-list.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dependency/kafka/kafka-expander/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dependency/kafka/kafka-expander/main_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dependency/kafka/kafka-expander/reassignment.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dependency/media-gateway/docker-build.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dependency/zetcd/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dependency/zetcd/Dockerfile.megvii" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dependency/zetcd/docker-build.megvii.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dependency/zetcd/docker-build.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/Dockerfile.base" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/Dockerfile.weed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/entrypoint.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/media_proxy_config_generator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/media_proxy_entrypoint.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/monitor_mate.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/sources.list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../echo/cmd/client/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../echo/cmd/echo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../echo/cmd/multi_server/test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../echo/cmd/prome/prome_clinet.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../echo/proto/echo.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../echo/service/echo.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../echo/service/etcd.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../echo/service/scheduler/scheduler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../echo/service/service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/activate.sh.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/c-ares.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/ffmpeg.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/grpc.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/jpeg.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/nasm.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/opencv.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/protobuf.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/rocksdb.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/rtmp.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/ssl.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/x264.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/yasm.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../env/zlib.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/activate.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/activate_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/semantic/2006/Activate.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/semantic/2006/Engine.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/semantic/2016/Activate.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/semantic/2016/Engine.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/semantic/2026/Activate.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/semantic/2026/Engine.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/semantic/2046/Activate.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/semantic/2046/Engine.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/semantic/2056/Activate.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/semantic/2056/Engine.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/semantic/replaced-models/190915.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/semantic/screen-fanbingbing-0-3x4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/test/Activate-0GPU.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/test/test.model.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/update_model.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/activate/upgrade-feature.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/capture-passer/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/capture-passer/streams.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/eval-video/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/eval-video/readsub.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/eval/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/eval/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/faceanalyze/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facecli/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facecli/examples/Activate-17.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facecli/examples/Activate-24-1.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facecli/examples/Activate-24-2.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facecli/examples/Activate-coarse-balanced-27-1.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facecli/examples/Activate-coarse-balanced-27-2.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facecli/examples/Activate-cpu.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facecli/examples/Activate-test.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facecli/examples/Activate.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facecli/examples/CreateStream-1.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facecli/examples/CreateStream-2.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facecli/examples/Engine-cpu.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facecli/examples/Engine-single.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facecli/examples/Engine.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/faced-wrapper/client/stream-client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/faced-wrapper/server/faced-wrapper.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/faced/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/faceinspect/inspect_all.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/faceinspect/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/faceproxy/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facesnapshot/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/facetest/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/feature-importer/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/feature-importer/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/feature-loader/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/feature-loader/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/image-benchmark/benchmark.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/image-benchmark/images/fanbingbing-1280-720.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/image-benchmark/images/hezhao-800-600.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/image-benchmark/images/songqian-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/image-benchmark/images/songqian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/image-dump/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/kafka-counter/kafka.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/limit/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/pullnetgate/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/pushnetgate/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cmd/runstream/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/common/jpegmeta/parse.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/connector/connect.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/connector/connect_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/connector/iot.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/connector/iot_fake.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/connector/kafka.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/connector/wormhole.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cxxface/image.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cxxface/iotcapture/callback.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cxxface/iotcapture/stream.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cxxface/lib.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cxxface/lib_feature.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cxxface/metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/cxxface/types.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/docker_bash.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/docs/capture.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/imagMock/mock.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/integration/common.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/integration/corefile.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/integration/corehedwig.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/integration/corehistory.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/integration/corekafka.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/integration/corenetgate.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/integration/corenetgatev2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/integration/corenotify.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/integration/corepubsub.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/integration/coresearcher.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/integration/corestorage.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/integration/integration.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/attr/valid.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/crop.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/doc.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/filter.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/filter_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/merge_searcher.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/merge_shaper.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/ordered_map.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/ordered_map_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/simple_shaper.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/streamer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/streamer_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/track_shaper.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/track_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/trigger.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/internal/facetracker/videocache.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/limit/limit.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/activation.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/activation_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/attributer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/attributer_batcher.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/attributer_batcher_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/attributer_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/data/mat4x2To84x2.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/data/mat8x2To84x2.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/decrypt/decrypt.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/decrypt/decrypt_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/detector.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/detector_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/image.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/image_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/inspect.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/landmark_refiner.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/landmark_refiner_helper.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/landmark_refiner_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/landmarker.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/landmarker_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/lib.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/age.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/approximate.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/approximate_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/detection.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/detection_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/feature.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/landmark.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/model.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/model_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/recognition.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/recognition_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/testdata/invalRecognition.model3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/testdata/invalidApproximator.model3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/testdata/recognitionWithNaN.model3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/testdata/test.model.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/model/testdata/test.model2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/tracker.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/megface/tracker_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/merge/eval/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/merge/file/file_loader.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/merge/file/file_loader_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/merge/file/merge_shaper_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/merge/file/repo_loader.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/merge/file/repo_loader_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/proto/activation_service.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/proto/cluster_service.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/proto/engine_service.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/proto/face.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/proto/image_service.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/proto/limit.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/proto/video_service.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/activation.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/capture_engine_stream.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/cluster.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/cluster/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/cluster/authorizer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/cluster/authorizer_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/cluster/etcd.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/cluster/etcd_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/cluster/etcdstore.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/cluster/fileclient.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/cluster/filestore.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/cluster/memory.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/cluster/memory_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/cluster/merics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/cluster/scheduler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/cluster/store.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/engine.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/engine_stream.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/feature_stream.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/global_capture_engine_stream.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/image.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/image_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/server_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/util.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/video.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/service/video_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/sink/blob.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/sink/blob_clear_data.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/sink/blob_digest.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/sink/blob_digest_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/sink/blob_mask_data.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/sink/blob_storage.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/sink/sink.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/sink/sink_json.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/sink/sink_memory.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/test/lib_feature_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/testdata/jeffdean.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/testdata/jeffdean.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/testdata/jeffdean.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/testdata/merge/yuhang2017-targets.feat.large.v5.conf.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/testdata/merge/yuhang2017-targets.origin.attr.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/testdata/merge/yuhang2017.tracer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/testdata/testBody.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/testdata/testFace.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/utils/log.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/utils/pca/face_score.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/utils/pca/pca.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/utils/pca/pca.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/utils/pca/pca.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/utils/util.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face/utils/utils_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/cmd/baseservice/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/cmd/controller/get-fs/get_fs.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/cmd/controller/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/cmd/controller/run-process/run_process.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/cmd/dbreader/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/cmd/fcdata/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/cmd/fcdata/test-api/test-api.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/cmd/fcdata/test-api/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/cmd/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/cmd/ops/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/cmd/stats/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/cmd/tool/fcapi.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/cmd/tool/net.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/common/common.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/common/default_svc_key.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/common/error.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/baseservice/baseservice.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/baseservice/clusterservice.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/baseservice/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/baseservice/faceservice.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/baseservice/metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/baseservice/profileservice.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/baseservice/profileservice_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/baseservice/strongidservice.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/baseservice/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/cache/init.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/cluster_data.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/cluster_mgr.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/cluster_mgr_base.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/create_group.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/create_profile_without_face.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/delete_camera_process.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/identify_task.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/message_handle.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/offline_task.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/offline_task_data.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/realtime_merge_process.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/service_handler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/sync_task.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/update_profile.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/controller/update_profile_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbreader/init.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbreader/query_action.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbreader/query_cluster.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbreader/query_delete_camera.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbreader/query_face_cluster_mapping.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbreader/query_face_info.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbreader/query_profile.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbreader/query_strong_id.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbreader/query_strong_photo_id_mapping.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbreader/server_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/common/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/dbwriter_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/implementation.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/init.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/sqlbuilder/builder.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/sqlbuilder/insert_cluster.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/sqlbuilder/insert_fc_mapping.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/sqlbuilder/insert_profile.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/sqlbuilder/set_invalid_face.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/sqlbuilder/set_isolate_face.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/sqlbuilder/update_cluster.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/sqlbuilder/update_cluster_bestface_and_coverpage.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/sqlbuilder/update_profile.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/tool/logrus_hook.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/tool/msg_decoder.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/tool/tool.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/tool/tool_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/transactions.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/dbwriter/transactions_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/api.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/cache.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/common/const.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/common/query_option.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/de_encode.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/ledis_hash.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/ledis_kv.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/ledis_set.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/ledis_zset.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/operate_db.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/package.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/queue/queue.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/schedule.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/sync.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/fcdata/tool.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/http/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/http/errors.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/http/handle.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/http/handler_cache.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/http/handler_cluster.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/http/handler_fcdata.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/http/handler_featurestore.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/http/handler_kafka.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/http/handler_log.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/http/handler_lua.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/http/handler_task.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/http/handler_upgrade.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/http/init.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/http/util.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/kafka/config_helper.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/kafka/kafka_consumer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/kafka/kafka_msg.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/kafka/kafka_producer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/kafka/kafka_producer_handles.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/main_program/const.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/main_program/db/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/main_program/db/solid.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/main_program/handler/service_handler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/main_program/handler/solid.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/main_program/metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/main_program/processes/processes.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/main_program/se/algorithm.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/main_program/se/interfaces.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/main_program/se/solid.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/main_program/se/struct.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/main_program/se/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/main_program/utils/struct.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/main_program/utils/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/data.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/filter.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/handlerfunc.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/jsonpb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ops.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/router.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/sql.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/.postcssrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/build.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/build/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/build/check-versions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/build/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/build/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/build/vue-loader.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/build/webpack.base.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/build/webpack.dev.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/build/webpack.prod.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/config/dev.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/config/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/config/prod.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/lint.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/ajax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/assets/bgimg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/assets/expansion.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/assets/movie.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/assets/shrinkage.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/AnalyzePackData.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/CreateJob.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/Home.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/Modules/CreatePackDataJobForm.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/Modules/CreateReClusterJobForm.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/Modules/ListCell.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/Modules/ListCluster.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/Modules/ListClusteredFace.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/Modules/ListFace.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/Modules/ListReClusterResult.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/Modules/ListTable.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/Modules/Popup.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/PackDataJob.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/ReClusterJob.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/SearchCluster.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/SearchFace.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/components/UploadFaces.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/store/actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/store/getters.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/store/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/store/mutations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/store/types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/src/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/static/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/ops/ui/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/sglton/db.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/sglton/faceClusterControllerClient.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/sglton/faceClusterServiceClient.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/sglton/fs.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/sglton/metaMaster.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/sglton/objectStorage.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/sglton/sglton.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/stats/api.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/stats/impl/profile_camera_day.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/stats/service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/toolset/face/create_video.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/toolset/face/sync.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/toolset/face/upload.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/toolset/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/toolset/pid/pid.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/toolset/pid/pid_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/upgrade/v1911/define.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/upgrade/v1911/query.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/components/upgrade/v1911/task.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/conf/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/conf/kafka_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/notify/init.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/notify/on_profile_change.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/proto/baseservice.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/proto/common.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/proto/controller.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/proto/data_type.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/proto/dbreader.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/proto/dbwriter.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/proto/facecluster_service.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/proto/fcdata.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/proto/fcops.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/proto/stats.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/age_stats_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/api_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/common.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/compare_profile_and_face_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/compare_profiles_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/count_profiles_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/db.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/facecluster_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/gender_stats_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/get_cameras_for_profile_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/get_profile_by_faceid_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/list_faces_from_profile_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/merge_profile_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/photo_add_person_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/photo_del_person_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/profile_api_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/profile_info_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/profile_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/profile_service_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/remove_face_from_profile_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/request_context.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/search_by_info_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/search_by_personid_batch_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/search_by_personid_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/search_persons_by_face_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/search_profile_by_photo_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/search_similar_persons_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/search_similar_profiles_v5_impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/stats.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/api/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/cmd/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/helper/base.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/helper/face_cluster.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/metrics/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/metrics/init.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/metrics/interfaces.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/model/base.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/model/face_cluster.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/model/label.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/model/profile.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/model/profileV5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/model/profile_camera_day.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/model/strong_id.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/model/user_action_audit.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/rpc/search.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/service/startupcfg/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/testdata/face.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/testdata/gt.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/toolkit/update_strongid_group/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/toolkit/update_strongid_group/update_strongid_group.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/concur/concur.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/concur/options.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/concur/ticker_handle.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/concurrency.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/etcd.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/face.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/face_alg.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/feature.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/feature_store.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/feature_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/id_codec.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/kafka.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/perf_count.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/perf_count_metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/retry.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/seaweed.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/sort.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/tools.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facecluster/tools/transform.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/cmd/gateway/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/curl.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/doc/doc.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/doc/docV5.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/doc/swagger-ui-dist/VERSION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/doc/swagger-ui-dist/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/doc/swagger-ui-dist/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/doc/swagger-ui-dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/doc/swagger-ui-dist/oauth2-redirect.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/doc/swagger-ui-dist/swagger-ui-bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/doc/swagger-ui-dist/swagger-ui-bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/doc/swagger-ui-dist/swagger-ui-standalone-preset.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/doc/swagger-ui-dist/swagger-ui-standalone-preset.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/doc/swagger-ui-dist/swagger-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/doc/swagger-ui-dist/swagger-ui.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/doc/swagger-ui-dist/swagger-ui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/doc/swagger-ui-dist/swagger-ui.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/action.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/action_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/bigdata.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/bigdata_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/clip.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/core-ui.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/doc.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/experimental.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/face.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/face_cluster.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/face_cluster_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/face_group.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/face_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/facegroup_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/info.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/job.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/job_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/oauth2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/object-store.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/offline_video.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/operate_log.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/pedestrian.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/pedestrian_group.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/photo.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/photo_album.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/pubsub.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/query.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/resources.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/routers.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/setting.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/structed_stream.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/structed_stream_helper.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/user.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/vehicle.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/vehicle_group.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/video.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/httpproxy/video_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/operationlog/operationlogdb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/proto/model.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/proto/model_v5.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/proto/webservice.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/proto/webservice_v5.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/action.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/action_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/auth.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/bigdata.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/bigdata_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/clip.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/doc.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/experimental.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/face.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/face_cluster.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/face_cluster_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/face_group.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/face_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/facegroup_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/info.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/job.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/job_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/metrics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/object-storage.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/offline_video.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/pedestrian.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/pedestrian_group.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/photo.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/photo_album.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/photo_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/query.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/query_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/resources.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/setting.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/user.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/vehicle.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/vehicle_group.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/video.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/video_v5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/rpc/weberror.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/util/album_cache.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/util/byterange.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/util/etcd_paging.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/util/etcd_paging_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/util/facegroup_cache.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/util/filter_util.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/util/filter_util_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/util/imagehelper/scale.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/util/jsonpb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/util/jsonpb_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/util/pedestriangroup_cache.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/util/priority_queue.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/util/util.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/util/util_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/util/vehiclegroup_cache.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/watcher/trace.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../gen_protobuf.sh" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../go.mod" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../go.sum" beforeDir="false" />
@@ -1837,8 +659,6 @@
       <change beforePath="$PROJECT_DIR$/../videod/tracker/trackshaper.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../videod/tracker/trigger.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offerjava练习/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offerjava练习/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offerjava练习/reConstructBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offerjava练习/reConstructBinaryTree.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1853,88 +673,70 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DeleteSortedLinkDuplication.java">
+        <entry file="file://$PROJECT_DIR$/src/LevelPrintTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            <state relative-caret-position="275">
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FindKInSumK.java">
+        <entry file="file://$PROJECT_DIR$/src/PrintTreeOnLevel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+            <state relative-caret-position="150">
+              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TailKnodeOnLinklist.java">
+        <entry file="file://$PROJECT_DIR$/src/ZPrintTreeOnLevel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="250">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BianTaiTaijie.java">
+        <entry file="file://$PROJECT_DIR$/src/MirrorTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="375">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/reConstructBinaryFromLevAndIn.java">
+        <entry file="file://$PROJECT_DIR$/src/isSymmetricalTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="80" column="37" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="425">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Zhengzebiaodashi.java">
+        <entry file="file://$PROJECT_DIR$/src/XuanZhuanShuZu.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IsnumberSring.java">
+        <entry file="file://$PROJECT_DIR$/src/HasSubTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tiaozhengjioushu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
-              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="350">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -1985,14 +787,28 @@
         <option value="$PROJECT_DIR$/src/TailKnodeOnLinklist.java" />
         <option value="$PROJECT_DIR$/src/CycleLink.java" />
         <option value="$PROJECT_DIR$/src/reConstructBinaryFromLevAndIn.java" />
+        <option value="$PROJECT_DIR$/src/CycleLinkEnter.java" />
+        <option value="$PROJECT_DIR$/src/CycleLinkEntry.java" />
+        <option value="$PROJECT_DIR$/src/RevertList.java" />
+        <option value="$PROJECT_DIR$/src/ReverseList.java" />
+        <option value="$PROJECT_DIR$/src/MergeSortedLink.java" />
+        <option value="$PROJECT_DIR$/src/MirrorTree.java" />
+        <option value="$PROJECT_DIR$/src/isSymmetricalTree.java" />
+        <option value="$PROJECT_DIR$/src/HasSubTree.java" />
+        <option value="$PROJECT_DIR$/src/PrintMatrix.java" />
+        <option value="$PROJECT_DIR$/src/MinStack.java" />
+        <option value="$PROJECT_DIR$/src/StackPushPopOrder.java" />
+        <option value="$PROJECT_DIR$/src/LevelPrintTree.java" />
+        <option value="$PROJECT_DIR$/src/PrintTreeOnLevel.java" />
+        <option value="$PROJECT_DIR$/src/ZPrintTreeOnLevel.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2083" />
-    <option name="y" value="-95" />
-    <option name="width" value="1291" />
-    <option name="height" value="687" />
+    <option name="x" value="2549" />
+    <option name="y" value="-107" />
+    <option name="width" value="1296" />
+    <option name="height" value="696" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -2002,8 +818,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2020,6 +834,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2031,6 +847,7 @@
     <property name="last_opened_file_path" value="D:/ideaproject" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -2108,18 +925,21 @@
       <workItem from="1584759150988" duration="17136000" />
       <workItem from="1584804501963" duration="1656000" />
       <workItem from="1584849229089" duration="22865000" />
-      <workItem from="1584891518802" duration="866000" />
+      <workItem from="1584891518802" duration="1616000" />
+      <workItem from="1584930631935" duration="11596000" />
+      <workItem from="1585018542826" duration="817000" />
+      <workItem from="1585053522651" duration="9179000" />
+      <workItem from="1585109378599" duration="1133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71734000" />
+    <option name="totallyTimeSpent" value="95209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-92" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17750533" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -2136,7 +956,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.23969631" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -2162,13 +982,6 @@
             <element signature="e#2838#2839#0" expanded="true" />
             <element signature="e#2872#2873#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1727">
-          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -2206,27 +1019,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JuzhengFugai.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JuZhengLuJing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RepaceSpace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="33" column="30" selection-start-line="16" selection-start-column="8" selection-end-line="33" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TreeNextNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -2244,13 +1036,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jiqiren.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Jianshengzi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="479">
@@ -2262,13 +1047,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/XuanZhuanShuZu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -2312,17 +1090,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CycleLink.java" />
-    <entry file="file://$PROJECT_DIR$/src/DeleteSortedLinkDuplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FindKInSumK.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TailKnodeOnLinklist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -2337,13 +1115,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IsnumberSring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -2364,20 +1135,165 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TailKnodeOnLinklist.java">
+    <entry file="file://$PROJECT_DIR$/src/IsnumberSring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/reConstructBinaryFromLevAndIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="80" column="37" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="37" />
+        <state relative-caret-position="300">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DeleteSortedLinkDuplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CycleLinkEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeSortedLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JuzhengFugai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JuZhengLuJing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jiqiren.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RepaceSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StackPushPopOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="556" column="16" selection-start-line="556" selection-start-column="16" selection-end-line="556" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LevelPrintTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XuanZhuanShuZu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HasSubTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintTreeOnLevel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZPrintTreeOnLevel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MirrorTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isSymmetricalTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
         </state>
       </provider>
     </entry>
